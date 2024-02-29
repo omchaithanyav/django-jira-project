@@ -1,0 +1,1 @@
+# django-jira-project
